@@ -1,1 +1,1 @@
-# Submissions for FullstackOpne
+# Submissions for FullstackOpen course
